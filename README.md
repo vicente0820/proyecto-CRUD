@@ -34,3 +34,5 @@ clase PageItem
 
 
 ![listar](https://user-images.githubusercontent.com/72769320/122682617-86ca4780-d1c8-11eb-95eb-14cceadc1ae5.png)
+![ver](https://user-images.githubusercontent.com/72769320/122682983-6d29ff80-d1ca-11eb-9b95-7cb909b9519f.png)
+![form](https://user-images.githubusercontent.com/72769320/122682992-77e49480-d1ca-11eb-807c-275fb5b9e8f7.png)
